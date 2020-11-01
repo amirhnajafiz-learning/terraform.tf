@@ -24,4 +24,4 @@ the other hand "ms" does this automaticlly.
 # Final word
 Simple, usefull and convertable. 
 
-Contact me at : officialamirhossein21@gmail.com
+Contact me at : officialamirhossein21@gmail.com or najafizadeh21@gmail.com
