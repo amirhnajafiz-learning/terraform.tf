@@ -2,14 +2,14 @@
 Getting daily top 200 songs using python "Web scrapping"
 
 
-# Requirements
+## Requirements
 In this script I use "mechanicalsoup". You have to install this library
 in order to use this script.
 
 You can also use "beautifulsoup" but you need to change the code a little bit.
 I added a dir and use "beautifulsoup" to see their diffrences.
 
-# Explantion
+## Explanation
 This project is a simple usage of python "web scrapping" which allows developers
 to use the sources of a web page to get the data they need.
 
@@ -21,7 +21,7 @@ Notice that working with "mechanicalsoup" is much more easy than the "bautifulso
 The "bs" uses simpler methods and need some extra work to get start our script, but on
 the other hand "ms" does this automaticlly.
 
-# Output result
+## Output result
 
 <img src="https://github.com/Official21A/TopSongs/blob/master/pics/11-23-2020.png" />
 <img src="https://github.com/Official21A/TopSongs/blob/master/pics/23-11-2020-1.png" />
