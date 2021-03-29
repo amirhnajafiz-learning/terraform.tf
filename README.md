@@ -25,8 +25,3 @@ the other hand "ms" does this automaticlly.
 
 <img src="https://github.com/Official21A/TopSongs/blob/master/pics/11-23-2020.png" />
 <img src="https://github.com/Official21A/TopSongs/blob/master/pics/23-11-2020-1.png" />
-
-# Final word
-Simple, usefull and convertable. 
-
-Contact me at : officialamirhossein21@gmail.com or najafizadeh21@gmail.com
