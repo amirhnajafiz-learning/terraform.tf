@@ -21,7 +21,7 @@ Notice that working with "mechanicalsoup" is much more easy than the "bautifulso
 The "bs" uses simpler methods and need some extra work to get start our script, but on
 the other hand "ms" does this automaticlly.
 
-## Output result
+### Output result
 
 <img src="https://github.com/Official21A/TopSongs/blob/master/pics/11-23-2020.png" />
 <img src="https://github.com/Official21A/TopSongs/blob/master/pics/23-11-2020-1.png" />
