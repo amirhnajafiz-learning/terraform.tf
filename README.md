@@ -34,3 +34,5 @@ including routing, forms management, client-server communication, and more.
 For learning Angular, read their own documents.
 
 - [https://angular.io/guide](https://angular.io/guide/developer-guide-overview)
+
+Install CLI by running ```npm install -g @angular/cli``` command.
