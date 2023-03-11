@@ -22,6 +22,8 @@ For learning TypeScript, read the following tutorial from their own website.
 
 - [https://typescripttutorial.net](https://www.typescripttutorial.net/)
 
+For using TypeScript in your command line, you need to install ```ts``` and ```ts-node```.
+
 ## Angular
 
 Angular is a development platform, built on TypeScript. As a platform, Angular includes:
@@ -35,4 +37,5 @@ For learning Angular, read their own documents.
 
 - [https://angular.io/guide](https://angular.io/guide/developer-guide-overview)
 
-Install CLI by running ```npm install -g @angular/cli``` command.
+Install CLI by running ```npm install -g @angular/cli``` command. After that you would be
+working with ```ng``` command.
