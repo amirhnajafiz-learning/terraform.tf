@@ -2,6 +2,11 @@
   TypeScript
 </h1>
 
+<div align="center">
+  <img src="https://img.shields.io/github/languages/top/amirhossein-learning/typescript?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/type-learning-yellow?style=for-the-badge&logo=github" />
+</div>
+
 <br />
 
 Learn TypeScript and Angular by implementing a website front-end using Angular.
